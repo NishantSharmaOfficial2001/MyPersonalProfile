@@ -1,6 +1,6 @@
 body{
     font-family: 'Josefin Sans';font-size: 22px;
-    background-image: url('images/4.jpg');
+    background-image: url('images/pexels-pixabay-220182.jpg');
     width: 100%;
     background-size: cover;
 
@@ -10,29 +10,32 @@ body{
 .contact-me{
     display:block;
     color:#fff;
-    background-color: blueviolet;
+    background-color: rgba(128, 128, 128, 0.808);
     width:115px;
     height:25px;
     border-radius:30px;
     font-weight:bolder;
     text-align:center;
+    padding:8px;
 }
 
 .profile-pic{
+    position: fixed;
     border-radius:100%;
-    width: 100px;
-    height: 100px;
+    width: 70px;
+    height: 70px;
 }
 
 .about-me{
     display:block;
     color:#fff;
-    background-color: blueviolet;
+    background-color: rgba(128, 128, 128, 0.808);
     width:115px;
     height:25px;
     border-radius:30px;
     font-weight:bolder;
     text-align:center;
+    padding:8px;
 }
 .scroll {
     display: block;
@@ -43,18 +46,19 @@ body{
     height: 200px;
     overflow-y: scroll;
     text-align:center;
-    background-color: rgb(255, 255, 255);
+    background-color: rgba(255, 255, 255, 0.596);
     border-radius: 30px;
 }
 .my-skills{
     display:block;
     color:#fff;
-    background-color: blueviolet;
+    background-color: rgba(128, 128, 128, 0.808);
     width:115px;
     height:25px;
     border-radius:30px;
     font-weight:bolder;
     text-align:center;
+    padding: 8px;
 }
 
 .footer{
