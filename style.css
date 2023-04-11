@@ -42,7 +42,8 @@ p {
 	margin-bottom: 10px;
 	text-transform: uppercase;
 	letter-spacing: 0.2rem;
-	text-align: center;
+	text-align: justify;
+	text-justify: inter-word;
 }
 .section-title span {
 	color: orangered;
@@ -90,7 +91,7 @@ p {
 }
 #header .nav-bar {
 	display: flex;
-	align-items: center;
+	align-items: justify;
 	justify-content: space-between;
 	width: 100%;
 	height: 100%;
