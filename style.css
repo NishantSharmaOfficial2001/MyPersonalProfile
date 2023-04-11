@@ -8,6 +8,7 @@ html {
 	font-size: 10px;
 	font-family: 'Audiowide', sans-serif;
 	scroll-behavior: smooth;
+	text-align: justify;
 }
 a {
 	text-decoration: none;
